@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { CATEGORIES } from '../../consts';
+---
+
+<BaseLayout title="栏目 - 我的小世界" description="博客的全部栏目">
+  <h1 class="page-title">栏目</h1>
+  <ul class="cat-list">
+    {
+      CATEGORIES.map((c) => (
+        <li>
+          <a href={import.meta.env.BASE_URL + `categories/${encodeURIComponent(c)}/`}>{c}</a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

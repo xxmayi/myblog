@@ -1,0 +1,14 @@
+---
+import { SITE_TITLE } from '../consts';
+import ThemeToggle from './ThemeToggle.astro';
+---
+
+<header class="nav">
+  <a href={import.meta.env.BASE_URL} class="brand">{SITE_TITLE}</a>
+  <nav class="nav-links">
+    <a href={import.meta.env.BASE_URL}>首页</a>
+    <a href={import.meta.env.BASE_URL + 'categories/'}>栏目</a>
+    <a href={import.meta.env.BASE_URL + 'about/'}>关于</a>
+  </nav>
+  <ThemeToggle />
+</header>

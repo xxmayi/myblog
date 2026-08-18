@@ -1,0 +1,26 @@
+---
+import FormattedDate from './FormattedDate.astro';
+import { categoryColor } from '../utils/posts';
+
+const { post } = Astro.props;
+const color = categoryColor(post.data.category);
+const coverStyle = post.data.cover
+  ? `background-image:url(${post.data.cover});background-size:cover;background-position:center;`
+  : `background:${color};`;
+---
+
+<article class="card">
+  <a href={import.meta.env.BASE_URL + `posts/${post.id}/`} class="card-link">
+    <div class="cover" style={coverStyle}></div>
+    <div class="card-body">
+      <span class="chip" style={`background:${color}1a;color:${color}`}>
+        {post.data.category}
+      </span>
+      <h3 class="card-title">{post.data.title}</h3>
+      <p class="card-desc">{post.data.description}</p>
+      <time class="card-date">
+        <FormattedDate date={post.data.pubDate} />
+      </time>
+    </div>
+  </a>
+</article>

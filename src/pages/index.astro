@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getPosts } from '../utils/posts';
+import { CATEGORIES, SITE_TITLE } from '../consts';
+
+const posts = await getPosts();
+---
+
+<BaseLayout>
+  <section class="hero">
+    <h1>{SITE_TITLE}</h1>
+    <p>生活随笔 · 记录日常、旅行、读书、美食与手作。</p>
+  </section>
+
+  <div class="cat-filter">
+    <a href={import.meta.env.BASE_URL} class="chip">全部</a>
+    {
+      CATEGORIES.map((c) => (
+        <a href={import.meta.env.BASE_URL + `categories/${encodeURIComponent(c)}/`} class="chip">
+          {c}
+        </a>
+      ))
+    }
+  </div>
+
+  <div class="grid">
+    {posts.map((post) => <PostCard post={post} />)}
+  </div>
+</BaseLayout>

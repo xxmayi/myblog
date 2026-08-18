@@ -1,0 +1,25 @@
+---
+// Waline 评论组件（国内可用、支持邮件通知、可自托管）。
+// 部署好 Waline 服务端后，把下方 serverURL 填上即可启用评论区。
+const serverURL = ''; // 例如 https://your-waline.up.railway.app
+---
+
+{
+  serverURL && (
+    <section id="comments" class="comments">
+      <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+      />
+      <div id="waline" />
+      <script
+        type="module"
+        src="https://unpkg.com/@waline/client@v3/dist/waline.js"
+        define:vars={{ serverURL }}
+      />
+      <script define:vars={{ serverURL }} is:inline>
+        window.Waline.init({ el: '#waline', serverURL });
+      </script>
+    </section>
+  )
+}
