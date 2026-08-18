@@ -3,6 +3,7 @@ title: 一碗深夜拉面
 description: 加完班拐进巷口那家小店，热气先替我把疲惫蒸散了。
 pubDate: 2026-03-22
 category: 美食厨房
+cover: /myblog/images/midnight-ramen.png
 tags: [拉面, 深夜]
 draft: false
 ---

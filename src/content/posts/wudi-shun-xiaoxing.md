@@ -3,6 +3,7 @@ title: （八）读《史记·五帝本纪》：舜的身世与孝行
 description: 原文、翻译、故事概述、学到的道理——家人屡次要害他，他却把"孝"字守了一辈子。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-shun-xiaoxing.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

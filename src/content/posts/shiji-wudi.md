@@ -3,6 +3,7 @@ title: （一）读《史记·五帝本纪》：一段原文，看见华夏的�
 description: 原文、翻译、故事概述、学到的道理——从黄帝的阪泉、涿鹿两战说起。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/shiji-wudi.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

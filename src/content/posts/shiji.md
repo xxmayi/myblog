@@ -3,6 +3,7 @@ title: 读《史记》：一部跨越三千年的"人的故事"
 description: 司马迁用一百三十篇，把从上古到汉武的众生相写成了不朽。
 pubDate: 2026-08-14
 category: 读书观影
+cover: /myblog/images/shiji.png
 tags: [历史, 经典, 随笔]
 draft: false
 ---

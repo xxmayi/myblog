@@ -3,6 +3,7 @@ title: （六）读《史记·五帝本纪》：尧举舜、试舜
 description: 原文、翻译、故事概述、学到的道理——从盲人之子到天子接班人，尧怎样把舜翻来覆去考了三年。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-yao-jushun.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

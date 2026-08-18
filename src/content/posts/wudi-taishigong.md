@@ -3,6 +3,7 @@ title: （十一）读《史记·五帝本纪》：太史公曰
 description: 原文、翻译、故事概述、学到的道理——司马迁自己出来说话：五帝的故事，我是怎么考出来的。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-taishigong.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

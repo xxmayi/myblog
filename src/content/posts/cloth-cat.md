@@ -3,6 +3,7 @@ title: 周末做了只布艺小猫
 description: 第一次踩缝纫机，针脚歪歪扭扭，但它歪着头看我的样子刚刚好。
 pubDate: 2026-03-08
 category: 手作
+cover: /myblog/images/cloth-cat.png
 tags: [缝纫, 手工]
 draft: false
 ---

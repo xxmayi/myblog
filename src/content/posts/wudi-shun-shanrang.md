@@ -3,6 +3,7 @@ title: （七）读《史记·五帝本纪》：舜摄政与尧舜禅让
 description: 原文、翻译、故事概述、学到的道理——巡狩、制刑、流四凶，直到尧那句"终不以天下之病而利一人"。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-shun-shanrang.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

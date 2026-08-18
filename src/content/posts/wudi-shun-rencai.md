@@ -3,6 +3,7 @@ title: （九）读《史记·五帝本纪》：舜举贤才、任命百官
 description: 原文、翻译、故事概述、学到的道理——八恺八元、流四凶族、二十二臣各司其职，看舜怎样搭起第一套官僚班底。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-shun-rencai.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

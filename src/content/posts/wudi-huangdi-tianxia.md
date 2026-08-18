@@ -3,6 +3,7 @@ title: （二）读《史记·五帝本纪》：黄帝的天下与传承
 description: 原文、翻译、故事概述、学到的道理——称帝之后，黄帝如何走遍四方、安定天下，又把火种交到颛顼手中。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-huangdi-tianxia.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

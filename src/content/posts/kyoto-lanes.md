@@ -3,6 +3,7 @@ title: 在京都走过三条小巷
 description: 没有攻略，只是随便走。木屐声、线香味，和一家只卖抹茶的小店。
 pubDate: 2026-04-28
 category: 旅行足迹
+cover: /myblog/images/kyoto-lanes.png
 tags: [日本, 散步, 抹茶]
 draft: false
 ---

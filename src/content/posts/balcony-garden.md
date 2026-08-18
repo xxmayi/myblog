@@ -3,6 +3,7 @@ title: 初夏的阳台花园
 description: 把一盆盆绿植搬到阳台，整个夏天忽然都有了颜色。浇水、松土、等一场雨。
 pubDate: 2026-05-12
 category: 日常碎碎念
+cover: /myblog/images/balcony-garden.png
 tags: [阳台, 绿植, 夏天]
 draft: false
 ---

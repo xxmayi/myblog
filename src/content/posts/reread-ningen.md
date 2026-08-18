@@ -3,6 +3,7 @@ title: 重读《人间值得》
 description: 九旬心理医生的平静，原来大多烦恼都是自己给的。
 pubDate: 2026-04-10
 category: 读书观影
+cover: /myblog/images/reread-ningen.png
 tags: [心理学, 随笔]
 draft: false
 ---

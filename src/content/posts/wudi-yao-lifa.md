@@ -3,6 +3,7 @@ title: （四）读《史记·五帝本纪》：尧的德行与历法
 description: 原文、翻译、故事概述、学到的道理——从"其仁如天"到"敬授民时"，看尧如何把德行落进农时里。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-yao-lifa.png
 tags: [历史, 经典, 史记]
 draft: false
 ---

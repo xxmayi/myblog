@@ -3,6 +3,7 @@ title: （五）读《史记·五帝本纪》：尧问贤才与鲧治水
 description: 原文、翻译、故事概述、学到的道理——丹朱、共工、鲧，尧如何用人的眼光，看穿了三个"不能用"的人。
 pubDate: 2026-08-17
 category: 读书观影
+cover: /myblog/images/wudi-yao-xiancai.png
 tags: [历史, 经典, 史记]
 draft: false
 ---
